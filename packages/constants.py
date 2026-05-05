@@ -45,7 +45,7 @@ LGBT_FR_WORDS = ['LGBT', 'lgbt', 'homosexualité', 'homosexuel', 'homosexuelle',
 
 SCRATCH_DIR = dotenv_values(".env")["SCRATCH_DIR"]
 # CHANGE WHEN DIFFERENT DOMAIN
-BIO_SAVE_DIR = f"{SCRATCH_DIR}/wiki_food"
+BIO_SAVE_DIR = f"{SCRATCH_DIR}/wiki_articles"
 # BIO_SAVE_DIR = f"{SCRATCH_DIR}/wiki_bios"
 
 HF_CACHE_DIR = f"{SCRATCH_DIR}/hf_cache"

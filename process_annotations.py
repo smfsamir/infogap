@@ -18,7 +18,7 @@ logger = loguru.logger
 # ---------------------------
 # 1) GLOBALS & CONFIG
 # ---------------------------
-BIO_SAVE_DIR = "scratch/wiki_food"
+BIO_SAVE_DIR = "scratch/wiki_articles"
 LANG_CODE_MAPPING_HEADER = {
     "en": "en",
     "fr": "fr",
